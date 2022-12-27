@@ -1,0 +1,13 @@
+lock
+super + u
+    alacritty -e yay
+super + Delete
+    ~/.scripts/switch-user
+super + a
+    aniwrapper -t monokai
+ctrl + Escape
+    pkill -USR1 -x sxhkd
+alt + 1
+    sct 4000
+alt + 2
+    sct
