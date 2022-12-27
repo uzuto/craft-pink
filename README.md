@@ -11,7 +11,7 @@ Zorin Icons are also a good choice
 
 # Credits
 
-Thank's to [adi1090x](https://github.com/adi1090x) for his amazing distro
+Thank's to [adi1090x](https://github.com/adi1090x) for his amazing distro that led me to the world of linux customization
 
 ## License
 [GPLv v3](https://choosealicense.com/licenses/gpl-3.0/)
